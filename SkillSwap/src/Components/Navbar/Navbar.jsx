@@ -46,7 +46,7 @@ const Navbar = () => {
               </li>
             </ul>
           </div>
-          <a className="btn btn-ghost text-xl">daisyUI</a>
+          <a className="btn btn-ghost text-xl">Skill Swap</a>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
@@ -54,17 +54,7 @@ const Navbar = () => {
               <a>Item 1</a>
             </li>
             <li>
-              <details>
-                <summary>Parent</summary>
-                <ul className="p-2">
-                  <li>
-                    <a>Submenu 1</a>
-                  </li>
-                  <li>
-                    <a>Submenu 2</a>
-                  </li>
-                </ul>
-              </details>
+              <a>Item 2</a>
             </li>
             <li>
               <a>Item 3</a>
@@ -72,7 +62,26 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="navbar-end">
-          <a className="btn">Button</a>
+          <div className="dropdown dropdown-center">
+            <div tabIndex={0} role="button" className="m-1">
+              <div className="avatar hover:cursor-pointer">
+                <div className="w-12 rounded-full">
+                  <img src="https://img.daisyui.com/images/profile/demo/yellingcat@192.webp" />
+                </div>
+              </div>
+            </div>
+            <ul
+              tabIndex="-1"
+              className="dropdown-content menu bg-base-100 rounded-box z-1 w-52 p-2 shadow-sm"
+            >
+              <li>
+                <a>Item 1</a>
+              </li>
+              <li>
+                <a>Item 2</a>
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>

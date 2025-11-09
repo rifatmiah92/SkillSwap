@@ -4,11 +4,18 @@ import { createBrowserRouter } from "react-router";
 import { RouterProvider } from "react-router/dom";
 import "./index.css";
 import App from "./App.jsx";
+import SkillsOutlet from "./SkillsOutlet/SkillsOutlet.jsx";
 
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <App/>,
+    element: <App />,
+    children: [
+      {
+        index: true,
+        element: <SkillsOutlet></SkillsOutlet>,
+      },
+    ],
   },
 ]);
 
