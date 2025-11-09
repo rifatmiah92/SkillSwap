@@ -8,7 +8,7 @@
     "rating": 4.8,
     "slotsAvailable": 3,
     "description": "Acoustic guitar classes for complete beginners.",
-    "image": "https://i.postimg.cc/qR8pqPqF/guitar-beginner.png",
+    "image": "https://i.ibb.co.com/4R1KW0KD/1.jpg",
     "category": "Music"
   },
   {
@@ -20,7 +20,7 @@
     "rating": 4.6,
     "slotsAvailable": 5,
     "description": "Conversational English sessions for non-native speakers.",
-    "image": "https://i.postimg.cc/SNYvjC3j/spoken-english.png",
+    "image": "https://i.ibb.co.com/9kX8W9ph/2.jpg",
     "category": "Language"
   },
   {
@@ -32,7 +32,7 @@
     "rating": 4.9,
     "slotsAvailable": 2,
     "description": "Learn the fundamentals of Python programming in 4 weeks.",
-    "image": "https://i.postimg.cc/fRx1m1P9/python-intro.png",
+    "image": "https://i.ibb.co.com/v4FN7ZNP/3.jpg",
     "category": "Technology"
   },
   {
@@ -44,7 +44,7 @@
     "rating": 4.7,
     "slotsAvailable": 6,
     "description": "Master the art of fresh pasta and classic Italian sauces.",
-    "image": "https://i.postimg.cc/YCXH4TRx/italian-cooking.png",
+    "image": "https://i.ibb.co.com/60h6s34s/4.jpg",
     "category": "Cooking"
   },
   {
@@ -56,7 +56,7 @@
     "rating": 4.5,
     "slotsAvailable": 8,
     "description": "Understand your DSLR camera settings (aperture, ISO, shutter speed).",
-    "image": "https://i.postimg.cc/Hkqg8qf6/photography-101.png",
+    "image": "https://i.ibb.co.com/CsWZ1gMC/5.jpg",
     "category": "Arts"
   },
   {
@@ -68,7 +68,7 @@
     "rating": 4.9,
     "slotsAvailable": 10,
     "description": "Gentle Vinyasa flow focusing on breathing and relaxation.",
-    "image": "https://i.postimg.cc/0jK0FzF5/yoga-stress.png",
+    "image": "https://i.ibb.co.com/qL91wYbn/6.jpg",
     "category": "Wellness"
   },
   {
@@ -80,7 +80,7 @@
     "rating": 4.7,
     "slotsAvailable": 5,
     "description": "Learn advanced Excel functions, Pivot Tables, and data visualization.",
-    "image": "https://i.postimg.cc/mD4x5kSg/excel-business.png",
+    "image": "https://i.ibb.co.com/TM6ykQBG/7.jpg",
     "category": "Business"
   },
   {
@@ -92,7 +92,7 @@
     "rating": 4.8,
     "slotsAvailable": 4,
     "description": "A hands-on introduction to wheel throwing and hand-building techniques.",
-    "image": "https://i.postimg.cc/tCS1J0Hw/pottery-basics.png",
+    "image": "https://i.ibb.co.com/v4hb5c9t/8.jpg",
     "category": "Craft"
   },
   {
@@ -104,7 +104,7 @@
     "rating": 4.9,
     "slotsAvailable": 3,
     "description": "Build dynamic web applications using React hooks and components.",
-    "image": "https://i.postimg.cc/sXWj9k3v/react-fundamentals.png",
+    "image": "https://i.ibb.co.com/7ddLC1Fc/9.jpg",
     "category": "Technology"
   },
   {
@@ -116,7 +116,7 @@
     "rating": 4.6,
     "slotsAvailable": 7,
     "description": "Learn practical Spanish for travel and daily conversation.",
-    "image": "https://i.postimg.cc/8P0ZzYg5/spanish-convo.png",
+    "image": "https://i.ibb.co.com/JWmSvT9s/10.jpg",
     "category": "Language"
   },
   {
@@ -128,7 +128,7 @@
     "rating": 4.7,
     "slotsAvailable": 4,
     "description": "Learn basic scales, chords, and how to read sheet music.",
-    "image": "https://i.postimg.cc/5tMv2BYx/piano-intro.png",
+    "image": "https://i.ibb.co.com/pjbvgnt2/11.jpg",
     "category": "Music"
   },
   {
@@ -140,7 +140,7 @@
     "rating": 4.9,
     "slotsAvailable": 3,
     "description": "Master the art of creating and maintaining a starter and baking the perfect loaf.",
-    "image": "https://i.postimg.cc/NMyN2Y0x/sourdough-bread.png",
+    "image": "https://i.ibb.co.com/gMrx8Jfx/12.jpg",
     "category": "Cooking"
   },
   {
@@ -152,7 +152,7 @@
     "rating": 4.6,
     "slotsAvailable": 6,
     "description": "Explore color theory, blending techniques, and basic compositions.",
-    "image": "https://i.postimg.cc/d1G5qY8N/watercolor-basics.png",
+    "image": "https://i.ibb.co.com/6R8vxpnQ/13.jpg",
     "category": "Arts"
   },
   {
@@ -164,7 +164,7 @@
     "rating": 4.8,
     "slotsAvailable": 12,
     "description": "Guided sessions to reduce anxiety and improve focus.",
-    "image": "https://i.postimg.cc/wT5YxS4N/meditation-mindful.png",
+    "image": "https://i.ibb.co.com/9mdp08fq/14.jpg",
     "category": "Wellness"
   },
   {
@@ -176,7 +176,7 @@
     "rating": 4.7,
     "slotsAvailable": 8,
     "description": "Learn to build a brand and engage an audience on social platforms.",
-    "image": "https://i.postimg.cc/prX6nC1G/social-media-marketing.png",
+    "image": "https://i.ibb.co.com/7xJTy1YW/15.jpg",
     "category": "Business"
   }
 ]

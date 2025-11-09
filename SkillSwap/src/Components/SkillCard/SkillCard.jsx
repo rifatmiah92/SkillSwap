@@ -3,7 +3,7 @@ import React from "react";
 const SkillCard = ({ skillInfo }) => {
   return (
     <div>
-      <div className="card bg-base-100 w-96 shadow-sm">
+      <div className="card bg-base-100 w-80 mx-auto shadow-sm">
         <figure>
           <img src={skillInfo.image} alt="Shoes" />
         </figure>

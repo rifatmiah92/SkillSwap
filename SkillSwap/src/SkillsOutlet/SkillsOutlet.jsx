@@ -14,7 +14,7 @@ const SkillsOutlet = () => {
 
   return (
     <>
-      <div className="grid grid-cols-3">
+      <div className="grid md:grid-cols-2 lg:grid-cols-3 mt-14 gap-12 mx-auto md:mx-10 lg:mx-20">
         {skills.map((skill) => (
           <SkillCard key={skill.skillId} skillInfo={skill}></SkillCard>
         ))}
